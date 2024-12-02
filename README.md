@@ -1,1 +1,1 @@
-Analyzing business sales data and drawing insights to guide business decisions
+Analyzing business sales data and drawing insights to guide business decisions.
